@@ -1,4 +1,4 @@
-# Claude Code Source Code Leak — Anthropic Code Leak Archive
+# Claude Code Source Code Leak — Anthropic Code Leak Archive.
 
 This repository contains an unmodified archive of the leaked source code for [Claude Code](https://github.com/anthropics/claude-code), Anthropic's AI-powered coding agent.
 
